@@ -1,0 +1,42 @@
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\Resources\Drivers\Chrome\chromedriver.exe
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\Resources\Drivers\InternetExplorer\IEDriverServer.exe
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\Kliiko.Ui.Tests.dll.config
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\Kliiko.Ui.Tests.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\Kliiko.Ui.Tests.pdb
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\ImpromptuInterface.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\JetBrains.Annotations.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\log4net.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\nunit.framework.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\SpecFlow.Assist.Dynamic.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\TechTalk.SpecFlow.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\WebDriver.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\WebDriver.Support.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\ImpromptuInterface.xml
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\JetBrains.Annotations.xml
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\log4net.xml
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\nunit.framework.xml
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\WebDriver.xml
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\bin\Release\WebDriver.Support.xml
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\obj\Release\Kliiko.Ui.Tests.dll
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\obj\Release\Kliiko.Ui.Tests.pdb
+C:\Kliiko Selenium\Pdms\Pdms.Ui.Tests\obj\Release\Kliiko.Ui.Tests.csprojResolveAssemblyReference.cache
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\Resources\Drivers\Chrome\chromedriver.exe
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\Resources\Drivers\InternetExplorer\IEDriverServer.exe
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\Kliiko.Ui.Tests.dll.config
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\Kliiko.Ui.Tests.dll
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\Kliiko.Ui.Tests.pdb
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\ImpromptuInterface.dll
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\log4net.dll
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\nunit.framework.dll
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\SpecFlow.Assist.Dynamic.dll
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\TechTalk.SpecFlow.dll
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\WebDriver.dll
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\WebDriver.Support.dll
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\ImpromptuInterface.xml
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\log4net.xml
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\nunit.framework.xml
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\WebDriver.xml
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\bin\Release\WebDriver.Support.xml
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\obj\Release\Kliiko.Ui.Tests.dll
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\obj\Release\Kliiko.Ui.Tests.pdb
+C:\Kliiko Selenium Linux\Pdms\Pdms.Ui.Tests\obj\Release\Kliiko.Ui.Tests.csprojResolveAssemblyReference.cache

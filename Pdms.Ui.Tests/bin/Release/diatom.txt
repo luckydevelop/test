@@ -1,0 +1,109 @@
+2016-05-17 12:51:01,134 [INFO] - FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+2016-05-17 12:51:01,145 [INFO] -  
+2016-05-17 12:51:01,145 [INFO] -              2LogIn and LogOut functionality
+2016-05-17 12:51:01,145 [INFO] -  
+2016-05-17 12:51:01,145 [INFO] - FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+2016-05-17 12:51:01,166 [INFO] - *SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+2016-05-17 12:51:01,166 [INFO] -  
+2016-05-17 12:51:01,166 [INFO] -              User logins with VALID credentials
+2016-05-17 12:51:01,166 [INFO] -  
+2016-05-17 12:51:01,166 [INFO] - *SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+2016-05-17 12:51:01,257 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:01,257 [INFO] -  
+2016-05-17 12:51:01,257 [INFO] - Given UserStartsNewBrowserSessionAndOpensHomePage
+2016-05-17 12:51:01,257 [INFO] -  
+2016-05-17 12:51:01,257 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:14,805 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: email
+2016-05-17 12:51:14,834 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: password
+2016-05-17 12:51:14,863 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: .//*[@id='login']/form/div/div[1]/div/table/tbody/tr[3]/td[2]/label
+2016-05-17 12:51:14,890 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .background-yellow.text-font-family-tabs.text-white.text-shadow-gray.btn.login-kliiko-tab
+2016-05-17 12:51:14,918 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .background-green.text-font-family-tabs.text-white.text-center.login-signup-tab
+2016-05-17 12:51:14,946 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: forgot-password
+2016-05-17 12:51:14,973 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .btn.border-yellow.text-brown-light.border-radius-none.background-transp.pull-right.login-btn-size
+2016-05-17 12:51:15,000 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: //*[@id='login']//*[@href='/auth/google']
+2016-05-17 12:51:15,030 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: //*[@id='login']//*[@href='/auth/facebook']
+2016-05-17 12:51:15,059 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .text-gray-dark.text-center
+2016-05-17 12:51:15,087 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .text-no-bold.text-login-page
+2016-05-17 12:51:15,114 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .text-no-bold.text-login-page.text-brown-dark
+2016-05-17 12:51:15,142 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .table.table-no-inside-borders.text-left.text-gray-dark.table-v-content-middle>tbody>tr>td
+2016-05-17 12:51:15,169 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .login-header>a>img
+2016-05-17 12:51:15,197 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: .//*[@id='login']/form/div/div[1]/div/table/tbody/tr[1]/td[2]/img
+2016-05-17 12:51:15,224 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: .//*[@id='login']/form/div/div[1]/div/table/tbody/tr[2]/td[2]/img
+2016-05-17 12:51:15,225 [INFO] - Check loading of next page - HeaderBlock
+2016-05-17 12:51:15,254 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: //img[contains(@src,'Kliiko_logo_lines')]
+2016-05-17 12:51:15,254 [INFO] - Check loading of next page - FooterBlock
+2016-05-17 12:51:15,282 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: footer
+2016-05-17 12:51:15,316 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.LinkText: Privacy Policy
+2016-05-17 12:51:15,351 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.LinkText: Terms & Conditions
+2016-05-17 12:51:15,401 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:15,401 [INFO] -  
+2016-05-17 12:51:15,401 [INFO] - When UserEntersAnd
+2016-05-17 12:51:15,401 [INFO] -  
+2016-05-17 12:51:15,401 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:15,430 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: email
+2016-05-17 12:51:15,544 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: password
+2016-05-17 12:51:15,640 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .btn.border-yellow.text-brown-light.border-radius-none.background-transp.pull-right.login-btn-size
+2016-05-17 12:51:18,045 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:18,045 [INFO] -  
+2016-05-17 12:51:18,045 [INFO] - Then PageIsLoaded
+2016-05-17 12:51:18,045 [INFO] -  
+2016-05-17 12:51:18,045 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:18,045 [INFO] - Page AccountProfilePage SHOULD be loaded
+2016-05-17 12:51:18,047 [INFO] - Full class name is - Kliiko.Ui.Tests.WebPages.Dashboard.AccountProfile.AccountProfilePage
+2016-05-17 12:51:18,047 [INFO] - Full class name is - Kliiko.Ui.Tests.WebPages.Dashboard.AccountProfile.AccountProfilePage Method name is - ExpectWebElements
+2016-05-17 12:51:18,047 [INFO] - Again Full class name is - Kliiko.Ui.Tests.WebPages.Dashboard.AccountProfile.AccountProfilePage Method name is - ExpectWebElements
+2016-05-17 12:51:18,047 [INFO] - Check loading of next page - HeaderBlock
+2016-05-17 12:51:18,070 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: //img[contains(@src,'Kliiko_logo_lines')]
+2016-05-17 12:51:18,109 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .col-xs-1.current-domain-name
+2016-05-17 12:51:18,137 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .col-xs-12.col-md-7.btn-group.remove-link-line.nav-button-top-margin.text-right.ng-binding
+2016-05-17 12:51:18,193 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .btn-header-green
+2016-05-17 12:51:18,224 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .btn-header-red
+2016-05-17 12:51:18,309 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: .//*[@id='headerDropdown']
+2016-05-17 12:51:18,309 [INFO] - Check loading of next page - FooterBlock
+2016-05-17 12:51:18,340 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: footer
+2016-05-17 12:51:18,380 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.LinkText: Privacy Policy
+2016-05-17 12:51:18,418 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.LinkText: Terms & Conditions
+2016-05-17 12:51:18,418 [INFO] - Page AccountProfilePage IS ALREADY loaded
+2016-05-17 12:51:18,419 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:18,419 [INFO] -  
+2016-05-17 12:51:18,419 [INFO] - Then UserSelectsInMyDetailsMenu
+2016-05-17 12:51:18,419 [INFO] -  
+2016-05-17 12:51:18,419 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:18,419 [INFO] - Full class name is - Kliiko.Ui.Tests.WebPages.StaticPages.HeaderBlock
+2016-05-17 12:51:18,419 [INFO] - Full class name is - Kliiko.Ui.Tests.WebPages.StaticPages.HeaderBlock Method name is - SelectLogOut
+2016-05-17 12:51:18,419 [INFO] - Again Full class name is - Kliiko.Ui.Tests.WebPages.StaticPages.HeaderBlock Method name is - SelectLogOut
+2016-05-17 12:51:18,450 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: .//*[@id='headerDropdown']
+2016-05-17 12:51:18,497 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: .//*[@id='headerDropdown']
+2016-05-17 12:51:18,581 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.LinkText: Logout
+2016-05-17 12:51:19,417 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:19,417 [INFO] -  
+2016-05-17 12:51:19,417 [INFO] - Then PageIsLoaded
+2016-05-17 12:51:19,417 [INFO] -  
+2016-05-17 12:51:19,417 [INFO] - *STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP STEP
+2016-05-17 12:51:19,417 [INFO] - Page HomePage SHOULD be loaded
+2016-05-17 12:51:19,417 [INFO] - Full class name is - Kliiko.Ui.Tests.WebPages.NotLoggedPages.HomePage
+2016-05-17 12:51:19,417 [INFO] - Full class name is - Kliiko.Ui.Tests.WebPages.NotLoggedPages.HomePage Method name is - ExpectWebElements
+2016-05-17 12:51:19,417 [INFO] - Again Full class name is - Kliiko.Ui.Tests.WebPages.NotLoggedPages.HomePage Method name is - ExpectWebElements
+2016-05-17 12:51:19,439 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: email
+2016-05-17 12:51:19,491 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: password
+2016-05-17 12:51:19,536 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: .//*[@id='login']/form/div/div[1]/div/table/tbody/tr[3]/td[2]/label
+2016-05-17 12:51:19,563 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .background-yellow.text-font-family-tabs.text-white.text-shadow-gray.btn.login-kliiko-tab
+2016-05-17 12:51:19,589 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .background-green.text-font-family-tabs.text-white.text-center.login-signup-tab
+2016-05-17 12:51:19,617 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: forgot-password
+2016-05-17 12:51:19,636 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .btn.border-yellow.text-brown-light.border-radius-none.background-transp.pull-right.login-btn-size
+2016-05-17 12:51:19,663 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: //*[@id='login']//*[@href='/auth/google']
+2016-05-17 12:51:19,691 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: //*[@id='login']//*[@href='/auth/facebook']
+2016-05-17 12:51:19,718 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .text-gray-dark.text-center
+2016-05-17 12:51:19,745 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .text-no-bold.text-login-page
+2016-05-17 12:51:19,779 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .text-no-bold.text-login-page.text-brown-dark
+2016-05-17 12:51:19,807 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .table.table-no-inside-borders.text-left.text-gray-dark.table-v-content-middle>tbody>tr>td
+2016-05-17 12:51:19,833 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.CssSelector: .login-header>a>img
+2016-05-17 12:51:19,860 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: .//*[@id='login']/form/div/div[1]/div/table/tbody/tr[1]/td[2]/img
+2016-05-17 12:51:19,879 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: .//*[@id='login']/form/div/div[1]/div/table/tbody/tr[2]/td[2]/img
+2016-05-17 12:51:19,879 [INFO] - Check loading of next page - HeaderBlock
+2016-05-17 12:51:19,898 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.XPath: //img[contains(@src,'Kliiko_logo_lines')]
+2016-05-17 12:51:19,898 [INFO] - Check loading of next page - FooterBlock
+2016-05-17 12:51:19,916 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.Id: footer
+2016-05-17 12:51:19,940 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.LinkText: Privacy Policy
+2016-05-17 12:51:19,974 [INFO] - WebElement is VISIBLE!!! It's locatot is - By.LinkText: Terms & Conditions
+2016-05-17 12:51:19,974 [INFO] - Page HomePage IS ALREADY loaded
